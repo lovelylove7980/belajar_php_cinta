@@ -1,7 +1,7 @@
 <html>
 <head>
     <title>
-      PERCABANGAN PHP CINTA A.C
+      PERCABANGAN PHP CINTA A.C 
     </title>
 </head>
 <body>
@@ -88,6 +88,7 @@ if ($jam >= date ("00:00") && $jam <= date ("04:00")) {
 //Andi tidur jam 22:00 dan bangun jam 04:00.
 
 $jam = "22:30";
+
 
 if ($jam >= "15:30" && $jam < "15:45") {
     echo "Jam $jam : Pulang Sekolah";
