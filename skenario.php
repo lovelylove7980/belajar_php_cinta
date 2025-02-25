@@ -149,7 +149,7 @@ echo "<p> <strong> Jam berapa Andi dan Raya melakukan chatting waktu lokal rumah
 => Jam 17:00 - 17:30 WIB. </p>";
 
 echo "<p> <strong> Apakah masih ada waktu untuk Andi memiliki waktu luang? Jam berapakah? </strong> <br>
-=> Jam 21:30 - 22:00 mengobrol bersama keluarga. </p>";
+=> Tidak ada waktu luang, hanya ada waktu untuk mengobrol bersama keluarga pada Jam 21:30 - 22:00 mengobrol bersama keluarga sebelum tidur. </p>";
 
 echo "<p> <strong> Jika Andi tidak memiliki tugas sekolah, berapakah waktu luang yang Andi miliki? </strong><br>
 => Jam 19:30 - 21:30 WIB, jadi Andi memiliki waktu luang jika tidak ada tugas selama 2 jam. </p>";

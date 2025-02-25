@@ -11,6 +11,7 @@ if(
     $hari == "senin" || 
     $hari == "selasa" ||
     $hari == "rabu"
+
 ) {
     echo "$hari mengenakan seragam osis";
 } else if ($hari == "kamis") {
